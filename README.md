@@ -2,8 +2,7 @@
 ☕ **Java**: Testing  
 🤖 **Projects**: ML  
 🔧 **Working**: Automation  
-📚 **Learning**: Python  
-❓ **Ask Me About**: Testing  
+📚 **Learning**: Python   
 🎉 **Fun Fact**: Nightowl  
 
 ## 🌐 Socials:
