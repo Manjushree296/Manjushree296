@@ -1,5 +1,5 @@
 # 💫 About Me:
-☕ Java: Testing<br>🤖 Projects: ML<br>📚 Learning: python<br>🎉 Fun Fact: Nightowl
+☕ Java: Testing<br>🤖 Projects: ML<br>📚 Learning: python<br>🎉 Fun Fact: Nightowl.
 
 
 ## 🌐 Socials:
