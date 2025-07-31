@@ -1,7 +1,7 @@
 # 💫 About Me: 
 ☕ Java: Testing<br>🤖 Projects: ML<br>📚 Learning: python<br>🎉 Fun Fact: Nightowl.      
 
-## 🌐 Socials:
+## 🌐 Socials:   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/https:/www.linkedin.com/in/manju-shree-237539240/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mshree296@gmail.com) 
 
 # 💻 Tech Stack:
